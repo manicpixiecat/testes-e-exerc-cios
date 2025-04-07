@@ -1,1 +1,1 @@
-# testes-e-exerc-cios
+# testes-e-exercicios
